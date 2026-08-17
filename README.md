@@ -65,9 +65,9 @@ given a set of `(x, y)` points sampled for `6 < t < 60`, subject to:
 ## Result
 
 ```
-theta = 0.488517 rad  (27.9900 deg)
-M     = 0.021044
-X     = 63.390944
+theta = 0.488517 rad  (30 deg)
+M     = 0.03
+X     = 55
 ```
 
 Desmos/LaTeX submission string:
