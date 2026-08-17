@@ -1,0 +1,7 @@
+theta (rad) = 0.488517
+theta (deg) = 30
+M = 0.03
+X = 55
+
+Desmos/LaTeX string:
+\left(t*\cos(0.4885)-e^{0.0210\left|t\right|}\cdot\sin(0.3t)\sin(0.4885)+63.3909,42+t*\sin(0.4885)+e^{0.0210\left|t\right|}\cdot\sin(0.3t)\cos(0.4885)\right)
